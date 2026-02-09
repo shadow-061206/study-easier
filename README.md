@@ -85,12 +85,3 @@ Troubleshooting
 - API errors: verify the environment variable value and network connectivity.
 - Streamlit port issues: try `streamlit run ai_study.py --server.port 8502`.
 
-Contributing
-- Suggested improvements: add more study modes, persist sessions to disk, or add user authentication.
-
-License
-- MIT-style / free to use for educational purposes.
-
----
-Updated README for concise setup, configuration, and usage.
-- Try running: `streamlit run ai_study.py --logger.level=debug`
